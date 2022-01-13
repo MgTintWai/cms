@@ -1,0 +1,1 @@
+Hello My Name is Nicholas and I am studying in my home.I want to ba a full stack developer.This is my Complete Manage System App!
